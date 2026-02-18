@@ -1,0 +1,37 @@
+﻿Analyzing MOB-PhyTera...                                        
+
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\core\theme\app_theme.dart:47:9 - deprecated_member_use
+   info - 'onBackground' is deprecated and shouldn't be used. Use onSurface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\core\theme\app_theme.dart:52:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\alerts\presentation\screens\alerts_screen.dart:61:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\alerts\presentation\screens\alerts_screen.dart:111:79 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\screens\dashboard_home_screen.dart:50:79 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\widgets\action_grid.dart:77:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\widgets\action_grid.dart:80:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\widgets\action_grid.dart:92:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\widgets\health_indicator_card.dart:30:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\widgets\scaffold_with_navbar.dart:54:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\devices\presentation\screens\devices_screen.dart:79:72 - deprecated_member_use
+   info - The imported package 'riverpod' isn't a dependency of the importing package - lib\features\map\presentation\providers\field_provider.dart:2:8 - depend_on_referenced_packages
+  error - Classes can only extend other classes - lib\features\map\presentation\providers\field_provider.dart:41:32 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\map\presentation\providers\field_provider.dart:45:57 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:48:27 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:50:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:50:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:58:9 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:59:43 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:61:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:61:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:70:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:70:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:78:9 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:83:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\map\presentation\providers\field_provider.dart:84:17 - undefined_identifier
+warning - The value of 'refresh' should be used - lib\features\map\presentation\providers\field_provider.dart:89:10 - unused_result
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\map\presentation\providers\field_provider.dart:94:26 - undefined_function
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\map\presentation\screens\map_screen.dart:65:43 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\map\presentation\screens\map_screen.dart:77:28 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\map\presentation\screens\map_screen.dart:85:42 - deprecated_member_use
+  error - The named parameter 'isDotted' isn't defined - lib\features\map\presentation\screens\map_screen.dart:88:23 - undefined_named_parameter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\map\presentation\screens\map_screen.dart:117:40 - deprecated_member_use
+warning - The value of 'refresh' should be used - lib\features\map\presentation\screens\map_screen.dart:240:37 - unused_result
+
